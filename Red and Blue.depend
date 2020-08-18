@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1597476801 source:e:\shaswata\c++\c++ challenges\red and blue\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
